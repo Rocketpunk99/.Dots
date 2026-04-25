@@ -31,3 +31,6 @@
 ⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣴⣿⣦⡈⠂⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣷⣶⣦⣤⣤⣀⣀⣀⣀⣠⣼⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣶⣶⣶⣾⣏⠀⠀⠀⠀⠀⠀
 ⠲⠶⠶⠖⠒⠶⠶⠾⠿⣿⣿⣿⣿⣿⣿⣷⣦⣤⣤⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⡀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⠦⢤⠤⠄⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠉⠉⠉⠈⠉⠉⠉⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠛⠛⠛⠛⠿⢿⣿⣷⣶⣦⣴⣶⣿⣿⣿⣿⣿⣿⠿⢶⠆⠀⠀⠀⠀⠀⠀⠀⠀
+
+These are my personal dotfiles. 
+the dotimage above is used across most of my programs and is here for additional refrence and access
